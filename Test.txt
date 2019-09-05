@@ -1,0 +1,4 @@
+This is the text i've entered.
+Try another time.
+Hope this would help in understanding file operations.
+Second Time.
